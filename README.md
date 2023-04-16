@@ -12,3 +12,4 @@ The board will be connected to the PC using a single USB-C cable. To connect its
 This is a WIP. Stay tuned!
 
 ### The board
+![plot](./hw/resources/images/board_v1.png)
